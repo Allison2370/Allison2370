@@ -1,7 +1,7 @@
 👋 Hi, I’m Allison! (@Allison2370)
 
 - I’m interested in $${\color{blue}creating \space apps/games \space and \space websites}$$
-- I’m currently learning $${\color{blue}Python \space and \space Linux}$$
+- I’m currently learning $${\color{blue} HTML, \space Python, \space and \space Linux}$$
 - I’m looking to collaborate on $${\color{blue}programming \space projects}$$
 
 <!---
